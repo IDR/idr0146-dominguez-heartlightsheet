@@ -1,0 +1,9 @@
+---
+continue: true
+transfer: "ln_s"
+parallel_upload: "5"
+parallel_fileset: "5"
+columns:
+  - target
+  - path
+  - name
