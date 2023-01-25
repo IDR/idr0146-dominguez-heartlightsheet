@@ -1,0 +1,103 @@
+# FILL IN AS MUCH INFORMATION AS YOU CAN.  HINTS HAVE BEEN PUT IN SOME FIELDS AFTER THE HASH # SYMBOL. REPLACE THE HINT WITH TEXT WHERE APPROPRIATE.																																	
+																																	
+# STUDY DESCRIPTION SECTION																																	
+# Section with generic information about the study including title, description, publication details (if applicable) and contact details																																	
+																																	
+Comment[IDR Study Accession]	idr0146																																
+Study Title	Time lapse imaging of mesoderm and early cardiac progenitors in mouse embryos																																
+Study Type	time-lapse imaging																																
+Study Type Term Source REF	OMIT																																
+Study Type Term Accession	OMIT_0027490																																
+Study Description	Using four-dimensional whole-embryo light sheet imaging with improved and accessible computational tools, we longitudinally reconstruct early murine cardiac development at single-cell resolution. Nascent mesoderm progenitors form opposing density and motility gradients, converting the temporal birth sequence of gastrulation into a spatial anterolateral-to-posteromedial arrangement. Migrating precardiac mesoderm doesn’t strictly preserve cellular neighbor relationships; spatial patterns only become solidified as the cardiac crescent emerges. Progenitors undergo a heretofore unknown mesenchymal-to-epithelial transition, with an anchored first heart field (FHF) ridge apposing a motile juxtacardiac field (JCF). The nascent heart tube forms as the JCF rotates forward, due to push-pull morphodynamics of the second heart field transmitted through the FHF epithelium. In Mesp1 mutants that fail to make a cardiac crescent, mesoderm remains highly motile but directionally incoherent, resulting in density gradient inversion. Our practicable live embryo imaging approach defines spatial origins and behaviors of cardiac progenitors, and identifies their unanticipated morphological transitions.																	
+Study Key Words	development	embryology	cardiogenesis	cardiac progenitors	mesoderm	gastrulation	linear heart tube	heart field	light sheet microscopy	live imaging	cell tracking																								
+Study Organism	Mus musculus
+Study Organism Term Source REF	NCBITaxon																																
+Study Organism Term Accession	NCBITaxon_10090																																
+Study Experiments Number	1
+Study External URL	
+Study BioImage Archive Accession																																
+Study Public Release Date																																	
+																																	
+# Study Publication																																	
+Study PubMed ID																																	
+Study Publication Title	Graded mesoderm assembly governs cell fate and morphogenesis of the early mammalian heart																																
+Study Author List	Dominguez MH, Krup AL, Muncie JM, Bruneau BG																																
+Study PMC ID																																	
+Study DOI																																	
+																																	
+# Study Contacts																																	
+Study Person Last Name	Bruneau	Dominguez
+Study Person First Name	Benoit	Martin
+Study Person Email	benoit.bruneau@gladstone.ucsf.edu	martin.dominguez@pennmedicine.upenn.edu																															
+Study Person Address	1650 Owens Street, San Francisco, CA 94158	1650 Owens Street, San Francisco, CA 94158																																
+Study Person ORCID	0000-0002-0804-7597	0000-0002-1960-7190																																
+Study Person Roles	submitter	submitter																																
+																																	
+# Study License and Data DOI																																	
+Study License	CC BY 4.0
+Study License URL	https://creativecommons.org/licenses/by/4.0/																																
+Study Copyright	Dominguez et al
+Study Data Publisher	University of Dundee																																
+Study Data DOI																																
+																																	
+Term Source Name	NCBITaxon	EFO	CMPO	FBbi																													
+Term Source URI	http://purl.obolibrary.org/obo/	http://www.ebi.ac.uk/efo/	http://www.ebi.ac.uk/cmpo/	http://purl.obolibrary.org/obo/																													
+																																	
+																																	
+# EXPERIMENT SECTION																																	
+# Experiment Section containing all information relative to each experiment in the study including materials used, protocols names and description, phenotype names and description. For multiple experiments this section should be repeated.  Copy and paste the whole section below and fill out for the next experiment																																	
+																																	
+Experiment Number	1
+Comment[IDR Experiment Name]	idr0146-dominguez-heartlightsheet/experimentA	
+Experiment Sample Type	tissue																															
+Experiment Description	Light-sheet imaging of post-implantation mouse development from E6.5 to E8.5.  
+Experiment Size	5D Images: 	Average Image Dimension (XYZCT):	1495,1673,375,2,134	Total Tb: 	229 GB																												
+Experiment Example Images																																	
+Experiment Imaging Method	light sheet fluorescence microscopy	SPIM																															
+Experiment Imaging Method Term Source REF	Fbbi																																
+Experiment Imaging Method Term Accession	FBbi_00000369																															
+Experiment Organism																																	
+Experiment Organism Term Source REF	NCBITaxon																																
+Experiment Organism Term Accession																																	
+Experiment Comments																																	
+																																	
+# assay files																																	
+Experiment Assay File	idr0146-experimentA-annotation
+Experiment Assay File Format	tab-delimited text																																
+Assay Experimental Conditions																																	
+Assay Experimental Conditions Term Source REF																																	
+Assay Experimental Conditions Term Accession																																
+Quality Control Description																																	
+																																	
+# Protocols																																	
+Protocol Name	culture protocol	embedding protocol	Zeiss Z.1 microscope setup	live imaging checklist
+Protocol Type	growth protocol	treatment protocol	image acquisition and feature extraction protocol	data analysis protocol																													
+Protocol Type Term Source REF	EFO	EFO																															
+Protocol Type Term Accession	EFO_0003789	EFO_0003969																															
+Protocol Description	see attached DominguezMH Embryo Culture.pdf	see attached DominguezMH Embryo Mounting.pdf	see attached DominguezMH Zeiss Z.1 Setup.pdf	see attached DominguezMH Zeiss Z.1 Checklist.pdf
+																																	
+# Phenotypes																																	
+Phenotype Name																																	
+Phenotype Description																																
+Phenotype Score Type																																
+Phenotype Term Source REF	CMPO																																
+Phenotype Term Name																																
+Phenotype Term Accession			 																														
+																																	
+																																	
+# Feature Level Data Files (give individual file details unless there is one file per well)																																	
+Feature Level Data File Name																																	
+Feature Level Data File Format																																	
+Feature Level Data File Description																																	
+Feature Level Data Column Name																																	
+Feature Level Data Column Description																																	
+																																	
+#  Processed Data Files 																																	
+Processed Data File Name	XML_finalResult_lht.zip																														
+Processed Data File Format	XML																															
+Processed Data File Description	F-TGMM (Spot coordinates, linkages, and parameters for each time point) solution per embryo, only for a particular view (front or side)
+Processed Data Column Name																																
+Processed Data Column Type																																	
+Processed Data Column Annotation Level																															
+Processed Data Column Description																																	
+Processed Data Column Link To Assay File																													
