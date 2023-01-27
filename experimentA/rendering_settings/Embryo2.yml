@@ -1,0 +1,14 @@
+---
+channels:
+    1:
+        active: true
+        color: '808080'
+        end: 120.0
+        label: RFP-Mesp1_lineage
+        max: 235.0
+        min: 0.0
+        start: 0.0
+greyscale: true
+t: 1
+version: 2
+z: 125
