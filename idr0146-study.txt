@@ -16,7 +16,7 @@ Study Organism Term Accession	NCBITaxon_10090
 Study Experiments Number	1
 Study External URL	
 Study BioImage Archive Accession																																
-Study Public Release Date	2023-02-02																																	
+Study Public Release Date	2023-02-06																																	
 																																	
 # Study Publication																																	
 Study PubMed ID																																	
