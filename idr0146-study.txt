@@ -23,7 +23,7 @@ Study PubMed ID
 Study Publication Title	Graded mesoderm assembly governs cell fate and morphogenesis of the early mammalian heart																																
 Study Author List	Dominguez MH, Krup AL, Muncie JM, Bruneau BG																																
 Study PMC ID																																	
-Study DOI																																	
+Study DOI	https://doi.org/10.1016/j.cell.2023.01.001																																	
 																																	
 # Study Contacts																																	
 Study Person Last Name	Bruneau	Dominguez
