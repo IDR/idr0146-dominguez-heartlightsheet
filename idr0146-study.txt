@@ -19,7 +19,7 @@ Study BioImage Archive Accession
 Study Public Release Date	2023-02-06																																	
 																																	
 # Study Publication																																	
-Study PubMed ID																																	
+Study PubMed ID	36736300																																	
 Study Publication Title	Graded mesoderm assembly governs cell fate and morphogenesis of the early mammalian heart																																
 Study Author List	Dominguez MH, Krup AL, Muncie JM, Bruneau BG																																
 Study PMC ID																																	
@@ -38,7 +38,7 @@ Study License	CC BY 4.0
 Study License URL	https://creativecommons.org/licenses/by/4.0/																																
 Study Copyright	Dominguez et al
 Study Data Publisher	University of Dundee																																
-Study Data DOI																																
+Study Data DOI	https://doi.org/10.17867/10000187																																
 																																	
 Term Source Name	NCBITaxon	EFO	CMPO	FBbi																													
 Term Source URI	http://purl.obolibrary.org/obo/	http://www.ebi.ac.uk/efo/	http://www.ebi.ac.uk/cmpo/	http://purl.obolibrary.org/obo/																													
